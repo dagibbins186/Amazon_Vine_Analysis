@@ -17,15 +17,20 @@ The project only looks at products with verified purchases. Filters retrieve all
 \
 -the number and percentage of 5 star reviews.
 # Results
-18,592 reviews had more than 20 votes.
-17,340 reviews or 
+18,592 reviews had more than 20 votes. They retain the label "helpful votes".
+17,340 reviews were considered "helpful reviews" and constituted at least 50% of all votes.
+
 
 
 
 # Summary
 **Appendix**
 \
-Analysis to determine reviews with 20 votes or more.
+Analysis to determine reviews with 20 votes or more. Labeled "helpful reviews".
 \
 \
 !["20%2BVotesPerReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/20%2BVotesPerReview.PNG)
+\
+\
+Analysis to determine reviews with 50% or more "helpful reviews".
+!["VotesGreaterThan50%25.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/VotesGreaterThan50%25.PNG)
