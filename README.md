@@ -18,9 +18,14 @@ The project only looks at products with verified purchases. Filters retrieve all
 -the number and percentage of 5 star reviews.
 # Results
 18,592 reviews had more than 20 votes.
+17,340 reviews or 
 
 
 
 # Summary
 **Appendix**
-
+\
+Analysis to determine reviews with 20 votes or more.
+\
+\
+!["20%2BVotesPerReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/20%2BVotesPerReview.PNG)
