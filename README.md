@@ -7,7 +7,7 @@ The project examines a dataset of groceries, and uses PySpark to perform the ETL
 \
 The project only looks at products with verified purchases. Filters retrieve all the rows where:
 \
--the count of total votes is equal to or greater than 20. This serves to pick 'helpful reviews' and division by zero errors later on.
+-the count of total votes is equal to or greater than 20. This serves to pick 'helpful reviews.'
 \
 -the number of 'helpful reviews' divided by the count of total votes, and the number of these results that is equal to or greater than 50%.
 \
