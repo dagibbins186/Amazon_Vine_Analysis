@@ -56,3 +56,9 @@ Analysis to show 5 star ratings
 \
 \
 !["5StarReviews.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/5StarReviews.PNG)
+\
+\
+Tables storing data in pgAdmin and Relational Database Service of AWS
+\
+\
+!["PgAdmin.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/PgAdmin.PNG)
