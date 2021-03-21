@@ -28,6 +28,8 @@ This represents about 56% of the total 'helpful reviews.'
 
 # Summary
 The results indicate that grocery product reviews appear unbiased by the Vine program. With only 1/2 products receiving 5 stars, the grocery-line also appears to need improvement.
+\
+\
 **Appendix**
 \
 Analysis to determine reviews with 20 votes or more. Labeled "helpful reviews".
@@ -41,10 +43,16 @@ Analysis to determine reviews with 50% or more "helpful reviews".
 \
 \
 Analysis to show Vine reviews
-!["VineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/VineReview.PNG
+!["VineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/VineReview.PNG)
 \
 \
 Analysis to show NON-Vine reviews
 \
 \
-!["NotVineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/NotVineReview.PNG
+!["NotVineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/NotVineReview.PNG)
+\
+\
+Analysis to show 5 star ratings
+\
+\
+!["5StarReviews.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/5StarReviews.PNG)
