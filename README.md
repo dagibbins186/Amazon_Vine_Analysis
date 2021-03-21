@@ -18,12 +18,16 @@ The project only looks at products with verified purchases. Filters retrieve all
 -the number and percentage of 5 star reviews.
 # Results
 18,592 reviews had more than 20 votes. They retain the label "helpful votes".
-17,340 reviews were considered "helpful reviews" and constituted at least 50% of all votes.
-
-
+17,340 reviews were considered 'helpful reviews' and constituted at least 50% of all votes.
+Only 1 'helpful review' constituted a Vine review. 
+17339 'helpful reviews' were NOT Vine reviews. 
+This means nearly 100% of the 'helpful reviews' were unpaid and unbiased. 
+9,866 'helpful reviews' gave the grocery item five stars. 
+This represents about 56% of the total 'helpful reviews.'
 
 
 # Summary
+The results indicate that grocery product reviews appear unbiased by the Vine program. With only 1/2 products receiving 5 stars, the grocery-line also appears to need improvement.
 **Appendix**
 \
 Analysis to determine reviews with 20 votes or more. Labeled "helpful reviews".
@@ -34,3 +38,13 @@ Analysis to determine reviews with 20 votes or more. Labeled "helpful reviews".
 \
 Analysis to determine reviews with 50% or more "helpful reviews".
 !["VotesGreaterThan50%25.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/VotesGreaterThan50%25.PNG)
+\
+\
+Analysis to show Vine reviews
+!["VineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/VineReview.PNG
+\
+\
+Analysis to show NON-Vine reviews
+\
+\
+!["NotVineReview.PNG"](https://github.com/dagibbins186/Amazon_Vine_Analysis/blob/main/Amazon_Vine_Analysis/Images/NotVineReview.PNG
