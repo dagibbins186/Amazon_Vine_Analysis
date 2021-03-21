@@ -23,7 +23,7 @@ Only 1 'helpful review' constituted a Vine review.
 17339 'helpful reviews' were NOT Vine reviews. 
 This means nearly 100% of the 'helpful reviews' were unpaid and unbiased. 
 9,866 'helpful reviews' gave the grocery item five stars. 
-This represents about 56% of the total 'helpful reviews.' Since only 1 review came from the Vine program, it is easy to see this 4-star-review is not affecting the overall picture of 5-stars and 'helpful reviews.'
+This represents about 56% of the total 'helpful reviews.' Since only 1 review came from the Vine program, it is easy to see that this 4-star-review is not affecting the overall picture.
 
 
 # Summary
